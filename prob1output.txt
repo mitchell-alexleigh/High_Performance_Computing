@@ -1,0 +1,26 @@
+Problem 1
+
+a. There are more Cold Days in Oshkosh. 
+
+b. The difference in temperature between Oshkosh and Iowa City for each season is as follows (F = Fall, Sp = Spring, Su = Summer, W = Winter)
+o.season	  temp_diff
+F	          -2.7911063159310316
+Sp	          -5.441593089722041
+Su	          -3.3933016509011367
+W	          -2.1851097767010046
+
+
+c. The time period with the hottest average over a 7 day period is as follows 
++----------+----------+-----------------+
+|start_date|  end_date|         AVG_Temp|
++----------+----------+-----------------+
+|  2012-7-5|2012-07-12|87.05384615384614|
++----------+----------+-----------------+
+
+d. Hour with the highest frequency of cold temps is 5 AM
+
+e. 43.1
+
+f. The the best time and place to run is as follows
+city	month	hour
+Iowa	4	    10 PM
